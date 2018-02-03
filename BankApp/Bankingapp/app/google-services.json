@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "744734905903",
+    "firebase_url": "https://bankingapp-1820b.firebaseio.com",
+    "project_id": "bankingapp-1820b",
+    "storage_bucket": "bankingapp-1820b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744734905903:android:5e55086dc2b8d6b2",
+        "android_client_info": {
+          "package_name": "com.bankingapp.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744734905903-imb57ogqlu6qoguejtgkokm716ah22ns.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bankingapp.firebase",
+            "certificate_hash": "af85d54ffa3862705c867c18be72f41283d178fd"
+          }
+        },
+        {
+          "client_id": "744734905903-cqvt3tkjlrib4a4rpq87p5rciu4lia60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA04L3JaRys9dXci7oydyBPd8GL6_eLkNE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744734905903-cqvt3tkjlrib4a4rpq87p5rciu4lia60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
